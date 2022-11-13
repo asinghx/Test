@@ -1,8 +1,8 @@
 import java.io.*;
-class Child
+class Child extends Parent
 {
   public static void main (String args[])
   {
-System.out.println("First Chile branch test. ");
+System.out.println("First Child branch test. ");
   }
 }
